@@ -1,3 +1,9 @@
+> [!WARNING]
+> This repository has been archived and is no longer maintained.
+>
+> Contract addresses have been updated. Please refer to the V2 repository for the latest deployments and integration details:
+> https://github.com/Polymarket/ctf-exchange-v2
+
 # Polymarket CTF Exchange
 
 [![Version][version-badge]][version-link]
