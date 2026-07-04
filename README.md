@@ -1,3 +1,14 @@
+> **📦 本地备份快照** (2026-07-04)
+>
+> | 项 | 值 |
+> |---|---|
+> | 原路径 | `/opt/workspace/playground/ctf/ctf-exchange` |
+> | 上游 | [Polymarket/ctf-exchange](https://github.com/Polymarket/ctf-exchange)（已归档，见 V2） |
+> | 改动分支 | `playground` |
+> | 改动内容 | 部署脚本、测试修改、Base Sepolia (84532) broadcast 记录 |
+>
+> 查看本地改动：`git checkout playground`
+
 > [!WARNING]
 > This repository has been archived and is no longer maintained.
 >
