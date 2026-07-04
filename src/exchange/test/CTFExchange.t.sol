@@ -213,6 +213,7 @@ contract CTFExchangeTest is BaseExchangeTest {
         _mintTestTokens(bob, address(exchange), 20_000_000_000);
         _mintTestTokens(carla, address(exchange), 20_000_000_000);
 
+        
         Order memory order = _createAndSignOrder(bobPK, yes, 50_000_000, 100_000_000, Side.BUY);
         bytes32 orderHash = exchange.hashOrder(order);
 

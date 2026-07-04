@@ -1,5 +1,6 @@
 [profile.default]
 solc = "0.8.15"
+evm_version='shanghai'
 ffi = true
 gas_reports = ["*"]
 out = "out"

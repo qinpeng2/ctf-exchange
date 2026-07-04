@@ -59,3 +59,6 @@ To install new foundry submodules: `forge install UserName/RepoName@CommitHash`
 
 To remove: `forge remove UserName/RepoName`
 
+
+0x859BB7E96FD78d505BE45a87426D853301590942
+ forge script src/exchange/scripts/CTFScript.s.sol CTFScript --rpc-url $RPC_URL --private-key $PK --broadcast
